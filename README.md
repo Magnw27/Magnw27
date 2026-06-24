@@ -48,7 +48,7 @@ Meskipun repo saya masih sedikit, ini adalah jejak awal perjalanan coding saya. 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magwn27&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magnw27&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96" alt="Top Languages" width="45%" />
 </p>
 
 ---
