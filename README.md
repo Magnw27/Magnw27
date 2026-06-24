@@ -44,7 +44,7 @@ Meskipun repo saya masih sedikit, ini adalah jejak awal perjalanan coding saya. 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Magnw27&show_icons=true&theme=radical&title_color=ff6e96&text_color=ffffff&icon_color=ff6e96&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Magnw27p&theme=radical&background=0d1117&fire=ff6e96&ring=ff6e96" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Magnw27&theme=radical&background=0d1117&fire=ff6e96&ring=ff6e96" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
