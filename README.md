@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arip&label=Pengunjung+Profil&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Magnw27&label=Pengunjung+Profil&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ Saat ini saya masih dalam tahap **pemula** dan sangat bersemangat untuk menjelaj
 - 🌱 **Saat ini sedang belajar:** Dasar-dasar Pemrograman & Web Development
 - ⚡ **Fakta unik:** Saya lebih takut baterai habis daripada kode error (tapi tetap harus belajar error handling 😄)
 - 🎯 **Tujuan 2026:** Menguasai satu bahasa pemrograman dan membuat project kecil sendiri
-- 📫 **Hubungi saya:** [GitHub](https://github.com/arip) (satu-satunya media sosial saya untuk coding!)
+- 📫 **Hubungi saya:** [GitHub](https://github.com/Magnw27) (satu-satunya media sosial saya untuk coding!)
 
 ---
 
@@ -43,12 +43,12 @@ Ini adalah "senjata" yang sedang saya incar untuk dikuasai. Badge-badge ini akan
 Meskipun repo saya masih sedikit, ini adalah jejak awal perjalanan coding saya. Semakin saya belajar, grafik ini akan semakin hijau!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arip&show_icons=true&theme=radical&title_color=ff6e96&text_color=ffffff&icon_color=ff6e96&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arip&theme=radical&background=0d1117&fire=ff6e96&ring=ff6e96" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Magnw27&show_icons=true&theme=radical&title_color=ff6e96&text_color=ffffff&icon_color=ff6e96&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Magnw27p&theme=radical&background=0d1117&fire=ff6e96&ring=ff6e96" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arip&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magwn27&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6e96" alt="Top Languages" width="45%" />
 </p>
 
 ---
