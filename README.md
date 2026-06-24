@@ -1,6 +1,6 @@
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Magnw27\&style=flat-square\&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=saanprasanna\&style=flat-square\&color=blueviolet)
 
 </div>
 
@@ -9,11 +9,11 @@
 ### ✨ About Me
 
 ```yaml
-name: Arip
+name: Muhammad Arif Wicaksono
 username: Magnw27
-location: Indonesia
-focus: Web Development
-status: Learning & Building
+location: Kediri,Jawa Timur,Indonesia
+focus: Development
+status: Hard Learning
 ```
 
 <div align="center">
@@ -24,6 +24,6 @@ status: Learning & Building
 
 <div align="center">
 
-> "Stay curious, keep coding."
+> "Stay curious, keep coding >_< ."
 
 </div>
