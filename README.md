@@ -1,6 +1,6 @@
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=saanprasanna\&style=flat-square\&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Magnw27\&style=flat-square\&color=blueviolet)
 
 </div>
 
@@ -18,7 +18,7 @@ status: Hard Learning
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Magnw27&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saanprasanna&show_icons=true&theme=transparent&hide_border=true"/>
 
 </div>
 
