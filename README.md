@@ -1,7 +1,7 @@
 <h1 align="center">👋 Halo! Saya Arip</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Seorang+Pelajar+di+Kediri;Sedang+Belajar+Coding;Masa+Depan+Penuh+Kode!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Pelajar+esempe+2+kediri;learning+code;Masa+Depan+Penuh+Kode!" alt="Typing SVG" />
 </p>
 
 <p align="center">
